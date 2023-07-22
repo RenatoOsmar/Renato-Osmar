@@ -5,7 +5,7 @@ Hi 👋 My name is Renato Osmar
 Full Stack Software Developer
 -----------------------------
 
-I'm a 20 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 4 years old developer  I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and mobile development, making applications that impact the life of thousands of users.
 
 I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [50 campus in 29 countries](https://www.42network.org/42-schools/).
 
