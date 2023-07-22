@@ -9,7 +9,7 @@ I'm a  4 years, old developer  I love to code and figure it out how to solve dee
 
 Tenho uma formaçâo em Analise e desenvolvimento de sistemas(faculdade estácio ).
 
-* 🌍  I'm based in Recife/Pe, Brazil
+* 🌍  sou de Recife/Pe, Brazil
 * ✉️  You can contact me at [renatoosmar19@gmail.com](mailto:renatoosmar19@gmail.com)
 * 🚀  a procura da primeira oportunidade 
 * 🧠  I'm learning Advanced Javascript,React e React-native e estudando nodeJs .
