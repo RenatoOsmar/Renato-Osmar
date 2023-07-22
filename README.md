@@ -5,7 +5,7 @@ Hi 👋 My name is Renato Osmar
  Developer web/mobile
 -----------------------------
 
-I'm a 4 years, old developer  I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end and mobile development, making applications that impact the life of thousands of users.
+I'm a  4 years, old developer  I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end and mobile development, making applications that impact the life of thousands of users.
 
 Tenho uma formaçâo em Analise e desenvolvimento de sistemas(faculdade estácio ).
 
