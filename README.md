@@ -5,14 +5,14 @@ Hi 👋 My name is Renato Osmar
  Developer web/mobile
 -----------------------------
 
-I'm a 4 years old developer  I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and mobile development, making applications that impact the life of thousands of users.
+I'm a 4 years, old developer  I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end and mobile development, making applications that impact the life of thousands of users.
 
-I am also a student at [40| Recife], a Software Engineering school that have [50 campus in 29 countries](https://www.42network.org/42-schools/).
+Tenho uma formaçâo em Analise e desenvolvimento de sistemas(faculdade estácio ).
 
 * 🌍  I'm based in Recife/Pe, Brazil
 * ✉️  You can contact me at [renatoosmar19@gmail.com](mailto:renatoosmar19@gmail.com)
 * 🚀  a procura da primeira oportunidade 
-* 🧠  I'm learning Advanced Javascript,React mais profundo e adorando trabalhar com reac-native para mobile.
+* 🧠  I'm learning Advanced Javascript,React e React-native e estudando nodeJs .
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Jiu-Jitsu
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
